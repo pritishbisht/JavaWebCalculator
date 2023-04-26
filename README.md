@@ -1,1 +1,1 @@
-basic java web calculator 
+basic java web calculator for tomcat deployment
